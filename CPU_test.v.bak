@@ -1,0 +1,11 @@
+`timescale 10ns/1ns
+
+module CPU;
+reg clk;
+reg zero;
+reg reset;
+wire	MemWr;
+wire	MemtoReg;
+wire	RegDst;
+wire	RegWr;
+wire	ALUsrc;

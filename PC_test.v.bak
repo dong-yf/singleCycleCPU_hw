@@ -1,0 +1,17 @@
+`timescale 10ns/1ns
+
+module PC_test;
+reg clk;
+reg reset;
+reg zero;
+reg jump;
+reg nPC_sel;
+reg [15:0] imm16;
+reg [25:0] imm26;
+wire [31:0] PC;
+always #5
+	clk = ~clk;
+PC pc(clk, reset, imm16, imm26, nPC_sel, zero, jump, PC);
+initial 
+begin
+clk = 0;

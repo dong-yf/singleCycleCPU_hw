@@ -1,0 +1,8 @@
+module Control(
+input [5:0] opcode;
+output reg ExtOp;
+output reg ALUsrc;
+output reg [1:0] ALUctr;
+output reg MemWr;
+
+)

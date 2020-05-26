@@ -1,0 +1,8 @@
+module ALU(
+input [2:0] ALUctrl,
+input [31:0] busA,
+input [31:0] busB,
+input ALUsrc,
+output reg equal,
+output reg [31:0] ans;
+)

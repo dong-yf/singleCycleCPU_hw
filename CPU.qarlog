@@ -1,0 +1,41 @@
+Quartus II Archive log --	D:/Quartusproject/CPU/CPU.qarlog
+
+Archive:	D:/Quartusproject/CPU/CPU.qar
+Date:		Tue May 26 10:48:53 2020
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+D:/Quartusproject/CPU/ALU.v
+D:/Quartusproject/CPU/CPU.qpf
+D:/Quartusproject/CPU/CPU.qsf
+D:/Quartusproject/CPU/CPU.v
+D:/Quartusproject/CPU/CPU_test.v
+D:/Quartusproject/CPU/Control.v
+D:/Quartusproject/CPU/FDIV.v
+D:/Quartusproject/CPU/InstrROM.bsf
+D:/Quartusproject/CPU/InstrROM.qip
+D:/Quartusproject/CPU/InstrROM.v
+D:/Quartusproject/CPU/InstrROM_bb.v
+D:/Quartusproject/CPU/PC.v
+D:/Quartusproject/CPU/PC_test.v
+D:/Quartusproject/CPU/RAM.bsf
+D:/Quartusproject/CPU/RAM.mif
+D:/Quartusproject/CPU/RAM.qip
+D:/Quartusproject/CPU/RAM.v
+D:/Quartusproject/CPU/RAM_bb.v
+D:/Quartusproject/CPU/RAM_test.v
+D:/Quartusproject/CPU/ROM.mif
+D:/Quartusproject/CPU/ROM_test.v
+D:/Quartusproject/CPU/cpu.vwf
+D:/Quartusproject/CPU/db/CPU.sim.vwf
+D:/Quartusproject/CPU/incremental_db/compiled_partitions/CPU.db_info
+D:/Quartusproject/CPU/mux21.v
+D:/Quartusproject/CPU/mux21Mem.v
+D:/Quartusproject/CPU/myRAM.v
+D:/Quartusproject/CPU/output_files/stp2.stp
+D:/Quartusproject/CPU/output_files/stp2_auto_stripped.stp
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 30 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
